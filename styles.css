@@ -1,0 +1,15 @@
+.header {
+    background-color: rgb(50, 140, 50);
+    text-align:center;
+    color: white;
+}
+
+body {
+    background-color: #328c8c;
+}
+
+
+.logo {
+    width:500px;
+    height:auto;
+}
